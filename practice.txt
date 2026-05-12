@@ -1,8 +1,1 @@
-<<<<<<< Updated upstream
-some messages
-more messages
-my family will prosper
-i will not stop learning
-=======
-messages=============
->>>>>>> Stashed changes
+starting newly
