@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 adding some messages
 get me some coffee and some launch for the children's sake
 
+=======
+starting newly
+>>>>>>> 1487b099ab92f1c026f413ab942768d1019efe68
