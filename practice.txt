@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
 adding some messages
 get me some coffee and some launch for the children's sake
-=======
-learning branches
->>>>>>> Stashed changes
+
